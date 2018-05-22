@@ -14,6 +14,7 @@ wxhelper.exe - 分装好的可执行程序，目前只有window版本的，后�
 ### 防撤回功能
 输入完路径后会提示选择开启的功能
 效果：
+<img src="img-folder/chehui.png" width="200px" />
 ![Image text](img-folder/chehui.png)
 ![Image text](img-folder/WechatIMG25.jpeg)
 ![Image text](img-folder/WechatIMG27.jpeg)
