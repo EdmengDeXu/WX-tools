@@ -10,8 +10,7 @@ from itchat.content import *
 # {msg_id:(msg_from,msg_to,msg_time,msg_time_rec,msg_type,msg_content,msg_share_url)}
 msg_dict = {}
 # 文件存储临时目录,自行设置#########
-# rev_tmp_dir = input('临时文件的地址:')
-rev_tmp_dir = '/Users/yuxingxu/Desktop'
+rev_tmp_dir = input('临时文件的地址:')
 if not os.path.exists(rev_tmp_dir): os.mkdir(rev_tmp_dir)
 # 表情有一个问题 | 接受信息和接受note的msg_id不一致 巧合解决方案
 face_bug = None
