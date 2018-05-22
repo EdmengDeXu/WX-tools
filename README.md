@@ -34,7 +34,10 @@ wxhelper.exe - 分装好的可执行程序，目前只有window版本的，后�
 <br>
 <img src="img-folder/WechatIMG26.jpeg" width="200px" />
 <br>
+
 ### 后续版本将要实现的功能
+
+<br>
 1、自定义随机信息发送
 <br>
 2、红包消息提示
